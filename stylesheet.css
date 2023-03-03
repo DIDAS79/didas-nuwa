@@ -85,20 +85,20 @@ h4{
     
 }
 .newsletter input{
-    width: 380px;
+    width: 100px;
     max-width: 100%;
     position: relative;
 }
 .newsletter form input:first-child{
     display: inline-block;
-    width:65%;
+    width:20%;
     padding: 14px 130px 14px 14px;
     border: 2px solid #f9004d;
     outline: none;
     border-radius: 30px;
 }
 .newsletter form input:last-child{
-    width: 35%;
+    width: 19%;
     position: absolute;
     display: inline-block;
     outline: none;
