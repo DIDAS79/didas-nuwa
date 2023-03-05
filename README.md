@@ -1,7 +1,7 @@
 <div align="center">
   
   ## Hi there 👋
-  <img src="https://github.com/DIDAS79/didas-nuwa/blob/main/didas.jpg?raw=true" width="200" height="200")>
+  <img src="didas.jpg" width="200" height="200")>
 
 <div>
 
